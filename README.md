@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manjil</h1>
 <h3 align="center">A passionate application developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manjilkoirala&label=Profile%20views&color=0e75b6&style=flat" alt="manjilkoirala" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjilkoirala" alt="manjilkoirala" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/manjilhere" target="blank"><img src="https://img.shields.io/twitter/follow/manjilhere?logo=twitter&style=for-the-badge" alt="manjilhere" /></a> </p>
-
 - 🔭 I’m currently working on **some personal application projects**
 
 - 🌱 I’m currently learning **application development using flutter**
