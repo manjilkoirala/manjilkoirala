@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **https://www.linkedin.com/in/manjil-koirala/**
+- 📫 How to reach me **<a href= https://www.linkedin.com/in/manjil-koirala/>Linkedin</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
