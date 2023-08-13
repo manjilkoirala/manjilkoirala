@@ -1,14 +1,13 @@
-MasterHead
 <h1 align="center">Hi 👋, I'm Manjil</h1>
-<h3 align="center">A passionate application developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
-- 🔭 I’m currently working on **some personal application projects**
+- 🔭 I’m currently working on **some personal projects**
 
-- 🌱 I’m currently learning **application development using flutter**
+- 🌱 I’m currently learning **development using JavaScript**
 
-- 👯 I’m looking to collaborate on **some Flutter project**
+- 👯 I’m looking to collaborate on **some JavaScript project**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **<a href= https://www.linkedin.com/in/manjil-koirala/>Linkedin,</a><a href= https://www.instagram.com/techlearnhere/>Instagram</a>**
 
