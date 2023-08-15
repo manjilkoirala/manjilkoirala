@@ -1,5 +1,7 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/manjilkoirala)
 <h1 align="center">Hi 👋, I'm Manjil</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
 - 🔭 I’m currently working on **some personal projects**
 
