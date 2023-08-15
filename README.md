@@ -21,7 +21,7 @@
 <a href="https://www.youtube.com/c/techlearnhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techlearnhere" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjilkoirala&show_icons=true&locale=en&layout=compact" alt="manjilkoirala" /></p>
+<p><img align="left" width="450"  src="https://github-readme-stats.vercel.app/api/top-langs?username=manjilkoirala&show_icons=true&bg_color=151515&text_color=f5f5f5&locale=en&layout=compact" alt="manjilkoirala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjilkoirala&show_icons=true&locale=en" alt="manjilkoirala" /></p>
+<p>&nbsp;<img align="center"  width="450" src="https://github-readme-stats.vercel.app/api?username=manjilkoirala&show_icons=true&bg_color=151515&text_color=f5f5f5&locale=en" alt="manjilkoirala" /></p>
 
